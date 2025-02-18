@@ -1,7 +1,6 @@
 This was some Simple side Software for Copying Many files, but there an Exception in it, like in Blender there will be Files named .Blend1 which will make the Folder have 2x size of default .Blend, So with this Software you can Move Item Faster, and more Easy.
 
-![image](https://github.com/user-attachments/assets/d4414074-46c8-430e-83de-6a85a36c64a5)
-
+![image](https://github.com/user-attachments/assets/9825232b-a690-41c6-b6fc-f532f92de422)
 
 #Features
 - If Destination Files are have Date that more Close to the Current Dates, it Will Ignored,
