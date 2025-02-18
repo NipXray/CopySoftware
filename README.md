@@ -2,7 +2,7 @@ This was some Simple side Software for Copying Many files, but there an Exceptio
 
 This File was in Form of Installer, download it and install Just that Sorry for Robust UI ✌
 
-![image](https://github.com/user-attachments/assets/9825232b-a690-41c6-b6fc-f532f92de422)
+![image](https://github.com/user-attachments/assets/b250f3fe-b54a-4fe2-9553-825582ae2804)
 
 #Features
 - If Destination Files are have Date that more Close to the Current Dates, it Will Ignored,
